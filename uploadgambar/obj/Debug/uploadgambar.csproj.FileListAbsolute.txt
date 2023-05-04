@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\uploadgambar\bin\Debug\uploadgambar.exe.config
+C:\Users\LENOVO\source\repos\uploadgambar\bin\Debug\uploadgambar.exe
+C:\Users\LENOVO\source\repos\uploadgambar\bin\Debug\uploadgambar.pdb
+C:\Users\LENOVO\source\repos\uploadgambar\obj\Debug\uploadgambar.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\uploadgambar\obj\Debug\uploadgambar.Form1.resources
+C:\Users\LENOVO\source\repos\uploadgambar\obj\Debug\uploadgambar.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\uploadgambar\obj\Debug\uploadgambar.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\uploadgambar\obj\Debug\uploadgambar.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\uploadgambar\obj\Debug\uploadgambar.exe
+C:\Users\LENOVO\source\repos\uploadgambar\obj\Debug\uploadgambar.pdb
